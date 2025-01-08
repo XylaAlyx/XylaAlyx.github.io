@@ -1,6 +1,6 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
+    "url": "https://XylaAlyx.github.io",
     "title": "Gyoza",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
@@ -14,8 +14,8 @@
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
+    "name": "xyla",
+    "bio": "xyla github page test!!!",
     "description": "Clean, Cute, Fast.",
     "socials": [
       {
