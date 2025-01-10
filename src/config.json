@@ -1,12 +1,12 @@
 {
   "site": {
     "url": "https://XylaAlyx.github.io",
-    "title": "xyla",
+    "title": "xyla百宝箱",
     "description": "xyla blog",
     "keywords": "blog, xyla",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "favicon": "/xyla.ico",
+    "appleTouchIcon": "/xyla.png"
   },
   "author": {
     "name": "xyla",
@@ -15,7 +15,7 @@
   },
   "hero": {
     "name": "Xyla",
-    "bio": "Music / Robotics",
+    "bio": "音乐 | 机器人",
     "description": "wanna hear a construction joke? ",
     "socials": [
       {
