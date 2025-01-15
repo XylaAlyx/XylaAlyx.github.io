@@ -4,7 +4,6 @@ date: 2025-01-15
 lastMod: 2025-01-15
 category: 日记
 tags: [ROS, MCU]
-sticky: 1
 ---
 
 ## 上午

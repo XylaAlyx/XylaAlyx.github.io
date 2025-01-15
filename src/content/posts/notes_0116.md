@@ -1,10 +1,9 @@
 ---
-title: 1月15日笔记
-date: 2025-01-15
-lastMod: 2025-01-15
+title: 1月16日笔记
+date: 2025-01-16
+lastMod: 2025-01-16
 category: 日记
-tags: [ROS, MCU]
-sticky: 1
+tags: [ubuntu, MCU]
 ---
 
 ## 上午
